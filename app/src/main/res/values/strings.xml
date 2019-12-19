@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDo App</string>
+    //Activity_Titles
+    <string name="add_task_title">Add a Task</string>
+    <string name="update_task_title">Update Task</string>
+    //Add_Task_Activity
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="task_finishby">Estimated time to finish task</string>
+    <string name="save">Save</string>
+    //Update_Task_Activity
+    <string name="finish_mark">Mark as finished</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    //Main_Activity
+</resources>
